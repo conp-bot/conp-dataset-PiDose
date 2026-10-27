@@ -36,16 +36,41 @@
     ],
     "distributions": [
         {
-            "size": 37.88,
+            "title": "Main project files",
+            "size": 39.72,
             "unit": {
                 "value": "MB"
             },
             "access": {
-                "landingPage": "https://osf.io/rpyfm/", 
+                "landingPage": "https://osf.io/rpyfm/",
+                "accessURL": "https://files.us.osf.io/v1/resources/rpyfm/providers/osfstorage/?zip=",
                 "authorizations": [
-                      {
+                    {
                         "value": "public"
-                      }        
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "Code (GitHub: cameron-woodard/PiDose)",
+            "identifier": {
+                "identifier": "https://github.com/cameron-woodard/PiDose",
+                "identifierSource": "GitHub"
+            },
+            "size": 57.84,
+            "unit": {
+                "value": "KB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/rpyfm/",
+                "accessURL": "https://github.com/cameron-woodard/PiDose/archive/refs/heads/master.zip",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
                 ]
             },
             "formats": [
